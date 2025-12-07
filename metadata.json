@@ -1,0 +1,5 @@
+{
+  "name": "Sketch-to-Life with Nano Banana",
+  "description": "Draw sketches, drop images, and use Gemini 2.5 Flash Image (Nano Banana) to transform them into brilliant visuals.",
+  "requestFramePermissions": []
+}
